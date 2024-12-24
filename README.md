@@ -12,4 +12,5 @@ Added 'Inventory'
 Added 'View inventory'
 Added 'Reset sale log' in advanced
 Added 'Reset inventory log' in advanced'
+
 ![image](https://github.com/user-attachments/assets/dd5cc54f-1753-44fb-92c5-f871be5d65fd)
